@@ -1,3 +1,5 @@
+import math
+
 import numpy as np
 from config.core import config
 from pipeline import price_pipe
