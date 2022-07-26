@@ -1,4 +1,4 @@
-NAME=udemy-ml-api
+NAME=${HEROKU_APP_NAME}
 COMMIT_ID=$(shell git rev-parse HEAD)
 
 
